@@ -1,0 +1,4 @@
+C:\Users\LAB104PC8\Documents\Projects\AppAreaCuadrado\AppAreaCuadrado\bin\Debug\AppAreaCuadrado.exe
+C:\Users\LAB104PC8\Documents\Projects\AppAreaCuadrado\AppAreaCuadrado\bin\Debug\AppAreaCuadrado.pdb
+C:\Users\LAB104PC8\Documents\Projects\AppAreaCuadrado\AppAreaCuadrado\obj\x86\Debug\AppAreaCuadrado.exe
+C:\Users\LAB104PC8\Documents\Projects\AppAreaCuadrado\AppAreaCuadrado\obj\x86\Debug\AppAreaCuadrado.pdb

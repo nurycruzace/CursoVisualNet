@@ -1,0 +1,5 @@
+C:\Users\LAB104PC8\Documents\Projects\Appprueba3\Appprueba3\bin\Debug\Appprueba3.exe
+C:\Users\LAB104PC8\Documents\Projects\Appprueba3\Appprueba3\bin\Debug\Appprueba3.pdb
+C:\Users\LAB104PC8\Documents\Projects\Appprueba3\Appprueba3\obj\x86\Debug\Appprueba3.csprojResolveAssemblyReference.cache
+C:\Users\LAB104PC8\Documents\Projects\Appprueba3\Appprueba3\obj\x86\Debug\Appprueba3.exe
+C:\Users\LAB104PC8\Documents\Projects\Appprueba3\Appprueba3\obj\x86\Debug\Appprueba3.pdb
